@@ -6,7 +6,7 @@ CFDTool - simulation
 About
 -----
 
-[**CFDTool**](https://www.cfdtool.com) is a
+CFD tool is a
 [<b>C</b>omputational <b>F</b>luid <b>D</b>ynamics (CFD)](https://en.wikipedia.org/wiki/Computational_fluid_dynamics)
 <b>Tool</b>box for modeling and simulation of fluid flows with coupled
 heat transfer.
