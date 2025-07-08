@@ -15,7 +15,6 @@ Based on the [FEATool Multiphysics](https://www.featool.com)
 simulation platform, _CFDTool_ is specifically designed to make fluid
 dynamics and heat transfer simulations easy and fun.
 
-
 Features
 --------
 
