@@ -1,4 +1,4 @@
-CFDTool - _CFD Simulation Made Easy_
+CFDTool - simulation
 ====================================
 
 ![CFDTool Screenshot](screenshot.jpg)
